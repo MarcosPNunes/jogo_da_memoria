@@ -1,2 +1,2 @@
-# jogo_da_memoria
+# Jogo da Memória
 Desafio de Projeto TQI - Criar jogo da Memória 
